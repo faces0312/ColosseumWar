@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: bfe6bd3b4b8a8e945ba9b1914e67e3f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 701960432084883088
+    second: Magician_0
+  - first:
+      213: -2362123617121220222
+    second: Magician_1
+  - first:
+      213: -1069742958041569222
+    second: Magician_2
+  - first:
+      213: -7347209513500919106
+    second: Magician_3
+  - first:
+      213: 7540348962483610937
+    second: Magician_4
+  - first:
+      213: -5664107997127386710
+    second: Magician_5
+  - first:
+      213: 7413368304307032739
+    second: Magician_6
+  - first:
+      213: -1350135963466783521
+    second: Magician_7
+  - first:
+      213: -5218438526100484216
+    second: Magician_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magician_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 123, y: -169}
+        - {x: 123, y: -159}
+        - {x: 136, y: -154}
+        - {x: 138, y: -152}
+        - {x: 139, y: -79}
+        - {x: 131, y: -70}
+        - {x: 91, y: -30}
+        - {x: 83, y: -28}
+        - {x: 84, y: -7}
+        - {x: 79, y: 5}
+        - {x: 98, y: 40}
+        - {x: 98, y: 78}
+        - {x: 142, y: 78}
+        - {x: 146, y: 88}
+        - {x: 146, y: 103}
+        - {x: 138, y: 108}
+        - {x: 113, y: 123}
+        - {x: 96, y: 130}
+        - {x: 82, y: 130}
+        - {x: 82, y: 144}
+        - {x: 80, y: 146}
+        - {x: 75, y: 153}
+        - {x: 67, y: 156}
+        - {x: 74, y: 181}
+        - {x: 81, y: 189}
+        - {x: 84, y: 197}
+        - {x: 105, y: 197}
+        - {x: 108, y: 205}
+        - {x: 136, y: 206}
+        - {x: 138, y: 208}
+        - {x: 141, y: 218}
+        - {x: 114, y: 226}
+        - {x: 48, y: 226}
+        - {x: 46, y: 224}
+        - {x: 32, y: 218}
+        - {x: 30, y: 216}
+        - {x: 23, y: 211}
+        - {x: 6, y: 204}
+        - {x: -27, y: 169}
+        - {x: -40, y: 162}
+        - {x: -50, y: 155}
+        - {x: -65, y: 147}
+        - {x: -81, y: 139}
+        - {x: -84, y: 131}
+        - {x: -104, y: 130}
+        - {x: -114, y: 123}
+        - {x: -114, y: 108}
+        - {x: -92, y: 86}
+        - {x: -76, y: 84}
+        - {x: -82, y: 48}
+        - {x: -82, y: -8}
+        - {x: -80, y: -10}
+        - {x: -74, y: -10}
+        - {x: -82, y: -45}
+        - {x: -89, y: -53}
+        - {x: -98, y: -64}
+        - {x: -99, y: -89}
+        - {x: -92, y: -98}
+        - {x: -83, y: -105}
+        - {x: -75, y: -108}
+        - {x: -75, y: -169}
+        - {x: -65, y: -179}
+        - {x: -36, y: -181}
+        - {x: -34, y: -184}
+        - {x: -32, y: -186}
+        - {x: 64, y: -186}
+        - {x: 66, y: -184}
+        - {x: 66, y: -178}
+        - {x: 113, y: -179}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: 0969cc83b4dddb900800000000000000
+      internalID: 701960432084883088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 130, y: -172}
+        - {x: 138, y: -160}
+        - {x: 139, y: -87}
+        - {x: 131, y: -78}
+        - {x: 91, y: -38}
+        - {x: 83, y: -36}
+        - {x: 84, y: -15}
+        - {x: 79, y: -3}
+        - {x: 98, y: 32}
+        - {x: 98, y: 70}
+        - {x: 142, y: 70}
+        - {x: 146, y: 80}
+        - {x: 146, y: 95}
+        - {x: 138, y: 100}
+        - {x: 113, y: 115}
+        - {x: 96, y: 122}
+        - {x: 82, y: 122}
+        - {x: 82, y: 136}
+        - {x: 80, y: 138}
+        - {x: 75, y: 145}
+        - {x: 67, y: 148}
+        - {x: 74, y: 173}
+        - {x: 81, y: 181}
+        - {x: 84, y: 189}
+        - {x: 105, y: 189}
+        - {x: 108, y: 197}
+        - {x: 136, y: 198}
+        - {x: 138, y: 200}
+        - {x: 138, y: 208}
+        - {x: 136, y: 210}
+        - {x: 104, y: 218}
+        - {x: 48, y: 218}
+        - {x: 46, y: 216}
+        - {x: 32, y: 210}
+        - {x: 30, y: 208}
+        - {x: 23, y: 203}
+        - {x: 6, y: 196}
+        - {x: -27, y: 161}
+        - {x: -40, y: 154}
+        - {x: -50, y: 147}
+        - {x: -65, y: 139}
+        - {x: -81, y: 131}
+        - {x: -84, y: 123}
+        - {x: -104, y: 122}
+        - {x: -114, y: 115}
+        - {x: -114, y: 100}
+        - {x: -99, y: 87}
+        - {x: -92, y: 78}
+        - {x: -76, y: 76}
+        - {x: -82, y: 40}
+        - {x: -82, y: -16}
+        - {x: -80, y: -18}
+        - {x: -74, y: -18}
+        - {x: -82, y: -53}
+        - {x: -89, y: -61}
+        - {x: -98, y: -72}
+        - {x: -99, y: -97}
+        - {x: -92, y: -106}
+        - {x: -83, y: -113}
+        - {x: -75, y: -115}
+        - {x: -82, y: -149}
+        - {x: -90, y: -157}
+        - {x: -91, y: -169}
+        - {x: -80, y: -178}
+        - {x: -47, y: -179}
+        - {x: -36, y: -186}
+        - {x: 64, y: -186}
+        - {x: 66, y: -184}
+        - {x: 66, y: -178}
+        - {x: 121, y: -179}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: 289cde5d51d083fd0800000000000000
+      internalID: -2362123617121220222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 123, y: -169}
+        - {x: 123, y: -159}
+        - {x: 136, y: -154}
+        - {x: 138, y: -152}
+        - {x: 139, y: -79}
+        - {x: 131, y: -70}
+        - {x: 91, y: -30}
+        - {x: 83, y: -28}
+        - {x: 84, y: -7}
+        - {x: 79, y: 5}
+        - {x: 98, y: 40}
+        - {x: 98, y: 78}
+        - {x: 142, y: 78}
+        - {x: 146, y: 88}
+        - {x: 146, y: 103}
+        - {x: 138, y: 108}
+        - {x: 113, y: 123}
+        - {x: 96, y: 130}
+        - {x: 82, y: 130}
+        - {x: 82, y: 144}
+        - {x: 80, y: 146}
+        - {x: 75, y: 153}
+        - {x: 67, y: 156}
+        - {x: 74, y: 181}
+        - {x: 81, y: 189}
+        - {x: 84, y: 197}
+        - {x: 105, y: 197}
+        - {x: 108, y: 205}
+        - {x: 136, y: 206}
+        - {x: 138, y: 208}
+        - {x: 141, y: 218}
+        - {x: 114, y: 226}
+        - {x: 48, y: 226}
+        - {x: 46, y: 224}
+        - {x: 32, y: 218}
+        - {x: 30, y: 216}
+        - {x: 23, y: 211}
+        - {x: 6, y: 204}
+        - {x: -27, y: 169}
+        - {x: -40, y: 162}
+        - {x: -50, y: 155}
+        - {x: -65, y: 147}
+        - {x: -81, y: 139}
+        - {x: -84, y: 131}
+        - {x: -104, y: 130}
+        - {x: -114, y: 123}
+        - {x: -114, y: 108}
+        - {x: -92, y: 86}
+        - {x: -76, y: 84}
+        - {x: -82, y: 48}
+        - {x: -82, y: -8}
+        - {x: -80, y: -10}
+        - {x: -74, y: -10}
+        - {x: -82, y: -45}
+        - {x: -89, y: -53}
+        - {x: -98, y: -64}
+        - {x: -99, y: -89}
+        - {x: -92, y: -98}
+        - {x: -83, y: -105}
+        - {x: -75, y: -108}
+        - {x: -75, y: -169}
+        - {x: -65, y: -179}
+        - {x: -36, y: -181}
+        - {x: -34, y: -184}
+        - {x: -32, y: -186}
+        - {x: 64, y: -186}
+        - {x: 66, y: -184}
+        - {x: 66, y: -178}
+        - {x: 113, y: -179}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: a38e4f882728721f0800000000000000
+      internalID: -1069742958041569222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 131, y: -86}
+        - {x: 91, y: -46}
+        - {x: 83, y: -44}
+        - {x: 82, y: -24}
+        - {x: 75, y: -14}
+        - {x: 100, y: 23}
+        - {x: 98, y: 62}
+        - {x: 137, y: 61}
+        - {x: 146, y: 68}
+        - {x: 146, y: 88}
+        - {x: 145, y: 91}
+        - {x: 96, y: 114}
+        - {x: 82, y: 114}
+        - {x: 82, y: 128}
+        - {x: 80, y: 130}
+        - {x: 75, y: 137}
+        - {x: 67, y: 140}
+        - {x: 74, y: 165}
+        - {x: 81, y: 173}
+        - {x: 97, y: 181}
+        - {x: 105, y: 189}
+        - {x: 108, y: 197}
+        - {x: 128, y: 198}
+        - {x: 130, y: 200}
+        - {x: 130, y: 208}
+        - {x: 128, y: 210}
+        - {x: 96, y: 218}
+        - {x: 71, y: 218}
+        - {x: 69, y: 211}
+        - {x: 47, y: 211}
+        - {x: 44, y: 203}
+        - {x: 32, y: 202}
+        - {x: 30, y: 200}
+        - {x: 23, y: 195}
+        - {x: 6, y: 188}
+        - {x: -27, y: 153}
+        - {x: -40, y: 146}
+        - {x: -50, y: 139}
+        - {x: -65, y: 131}
+        - {x: -81, y: 123}
+        - {x: -84, y: 115}
+        - {x: -104, y: 122}
+        - {x: -113, y: 123}
+        - {x: -122, y: 115}
+        - {x: -122, y: 103}
+        - {x: -120, y: 102}
+        - {x: -115, y: 95}
+        - {x: -99, y: 79}
+        - {x: -92, y: 70}
+        - {x: -76, y: 68}
+        - {x: -82, y: 32}
+        - {x: -82, y: -24}
+        - {x: -80, y: -26}
+        - {x: -74, y: -26}
+        - {x: -82, y: -61}
+        - {x: -89, y: -69}
+        - {x: -98, y: -80}
+        - {x: -99, y: -105}
+        - {x: -92, y: -114}
+        - {x: -83, y: -121}
+        - {x: -75, y: -124}
+        - {x: -84, y: -170}
+        - {x: -72, y: -178}
+        - {x: -48, y: -186}
+        - {x: 112, y: -186}
+        - {x: 121, y: -180}
+        - {x: 138, y: -169}
+        - {x: 139, y: -95}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: eba3869efd7790a90800000000000000
+      internalID: -7347209513500919106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 123, y: -169}
+        - {x: 123, y: -159}
+        - {x: 136, y: -154}
+        - {x: 138, y: -152}
+        - {x: 139, y: -79}
+        - {x: 131, y: -70}
+        - {x: 91, y: -30}
+        - {x: 83, y: -28}
+        - {x: 84, y: -7}
+        - {x: 79, y: 5}
+        - {x: 98, y: 40}
+        - {x: 98, y: 78}
+        - {x: 142, y: 78}
+        - {x: 146, y: 88}
+        - {x: 146, y: 103}
+        - {x: 138, y: 108}
+        - {x: 113, y: 123}
+        - {x: 96, y: 130}
+        - {x: 82, y: 130}
+        - {x: 82, y: 144}
+        - {x: 80, y: 146}
+        - {x: 75, y: 153}
+        - {x: 67, y: 156}
+        - {x: 74, y: 181}
+        - {x: 81, y: 189}
+        - {x: 84, y: 197}
+        - {x: 105, y: 197}
+        - {x: 108, y: 205}
+        - {x: 136, y: 206}
+        - {x: 138, y: 208}
+        - {x: 141, y: 218}
+        - {x: 114, y: 226}
+        - {x: 48, y: 226}
+        - {x: 46, y: 224}
+        - {x: 32, y: 218}
+        - {x: 30, y: 216}
+        - {x: 23, y: 211}
+        - {x: 6, y: 204}
+        - {x: -27, y: 169}
+        - {x: -40, y: 162}
+        - {x: -50, y: 155}
+        - {x: -65, y: 147}
+        - {x: -81, y: 139}
+        - {x: -84, y: 131}
+        - {x: -104, y: 130}
+        - {x: -114, y: 123}
+        - {x: -114, y: 108}
+        - {x: -92, y: 86}
+        - {x: -76, y: 84}
+        - {x: -82, y: 48}
+        - {x: -82, y: -8}
+        - {x: -80, y: -10}
+        - {x: -74, y: -10}
+        - {x: -82, y: -45}
+        - {x: -89, y: -53}
+        - {x: -98, y: -64}
+        - {x: -99, y: -89}
+        - {x: -92, y: -98}
+        - {x: -83, y: -105}
+        - {x: -75, y: -108}
+        - {x: -75, y: -169}
+        - {x: -65, y: -179}
+        - {x: -36, y: -181}
+        - {x: -34, y: -184}
+        - {x: -32, y: -186}
+        - {x: 64, y: -186}
+        - {x: 66, y: -184}
+        - {x: 66, y: -178}
+        - {x: 113, y: -179}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: 935225f4e63b4a860800000000000000
+      internalID: 7540348962483610937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 136, y: -170}
+        - {x: 138, y: -168}
+        - {x: 139, y: -95}
+        - {x: 131, y: -86}
+        - {x: 95, y: -79}
+        - {x: 91, y: -46}
+        - {x: 83, y: -44}
+        - {x: 82, y: -24}
+        - {x: 75, y: -14}
+        - {x: 99, y: 22}
+        - {x: 122, y: 61}
+        - {x: 137, y: 69}
+        - {x: 146, y: 78}
+        - {x: 146, y: 88}
+        - {x: 145, y: 90}
+        - {x: 96, y: 114}
+        - {x: 82, y: 114}
+        - {x: 82, y: 128}
+        - {x: 80, y: 130}
+        - {x: 75, y: 137}
+        - {x: 67, y: 140}
+        - {x: 74, y: 165}
+        - {x: 81, y: 173}
+        - {x: 97, y: 181}
+        - {x: 105, y: 189}
+        - {x: 108, y: 197}
+        - {x: 128, y: 198}
+        - {x: 130, y: 200}
+        - {x: 130, y: 208}
+        - {x: 128, y: 210}
+        - {x: 96, y: 218}
+        - {x: 71, y: 218}
+        - {x: 69, y: 211}
+        - {x: 47, y: 212}
+        - {x: 30, y: 201}
+        - {x: 23, y: 195}
+        - {x: 6, y: 188}
+        - {x: -27, y: 153}
+        - {x: -40, y: 146}
+        - {x: -50, y: 139}
+        - {x: -65, y: 131}
+        - {x: -81, y: 123}
+        - {x: -84, y: 115}
+        - {x: -104, y: 122}
+        - {x: -113, y: 123}
+        - {x: -122, y: 115}
+        - {x: -122, y: 103}
+        - {x: -120, y: 102}
+        - {x: -115, y: 95}
+        - {x: -99, y: 79}
+        - {x: -92, y: 70}
+        - {x: -76, y: 68}
+        - {x: -82, y: 32}
+        - {x: -82, y: -24}
+        - {x: -80, y: -26}
+        - {x: -74, y: -26}
+        - {x: -82, y: -61}
+        - {x: -89, y: -69}
+        - {x: -98, y: -80}
+        - {x: -99, y: -105}
+        - {x: -92, y: -114}
+        - {x: -83, y: -121}
+        - {x: -75, y: -123}
+        - {x: -82, y: -149}
+        - {x: -90, y: -157}
+        - {x: -91, y: -169}
+        - {x: -80, y: -178}
+        - {x: -47, y: -179}
+        - {x: -36, y: -186}
+        - {x: 104, y: -186}
+        - {x: 106, y: -184}
+        - {x: 113, y: -179}
+        - {x: 116, y: -171}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: aa9d5cd49cb0561b0800000000000000
+      internalID: -5664107997127386710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 107, y: -127}
+        - {x: 99, y: -124}
+        - {x: 99, y: -103}
+        - {x: 91, y: -100}
+        - {x: 91, y: -31}
+        - {x: 83, y: -28}
+        - {x: 84, y: -7}
+        - {x: 79, y: 5}
+        - {x: 98, y: 40}
+        - {x: 98, y: 78}
+        - {x: 142, y: 78}
+        - {x: 146, y: 88}
+        - {x: 146, y: 103}
+        - {x: 138, y: 108}
+        - {x: 113, y: 123}
+        - {x: 96, y: 130}
+        - {x: 82, y: 130}
+        - {x: 82, y: 149}
+        - {x: 70, y: 157}
+        - {x: 74, y: 181}
+        - {x: 81, y: 189}
+        - {x: 84, y: 197}
+        - {x: 105, y: 197}
+        - {x: 108, y: 205}
+        - {x: 136, y: 206}
+        - {x: 138, y: 208}
+        - {x: 141, y: 218}
+        - {x: 114, y: 226}
+        - {x: 48, y: 226}
+        - {x: 46, y: 224}
+        - {x: 32, y: 218}
+        - {x: 30, y: 216}
+        - {x: 23, y: 211}
+        - {x: 6, y: 204}
+        - {x: -27, y: 169}
+        - {x: -40, y: 162}
+        - {x: -50, y: 155}
+        - {x: -65, y: 147}
+        - {x: -81, y: 139}
+        - {x: -84, y: 131}
+        - {x: -104, y: 130}
+        - {x: -114, y: 123}
+        - {x: -116, y: 111}
+        - {x: -92, y: 86}
+        - {x: -76, y: 84}
+        - {x: -82, y: 48}
+        - {x: -83, y: -9}
+        - {x: -76, y: -21}
+        - {x: -89, y: -21}
+        - {x: -92, y: -29}
+        - {x: -128, y: -22}
+        - {x: -232, y: -22}
+        - {x: -242, y: -32}
+        - {x: -242, y: -43}
+        - {x: -236, y: -48}
+        - {x: -242, y: -64}
+        - {x: -242, y: -97}
+        - {x: -228, y: -115}
+        - {x: -111, y: -114}
+        - {x: -96, y: -107}
+        - {x: -90, y: -96}
+        - {x: -79, y: -83}
+        - {x: -75, y: -80}
+        - {x: -74, y: -184}
+        - {x: 112, y: -186}
+        - {x: 114, y: -184}
+        - {x: 122, y: -168}
+        - {x: 123, y: -159}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: 3a25c5fe13391e660800000000000000
+      internalID: 7413368304307032739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 107, y: -127}
+        - {x: 99, y: -124}
+        - {x: 99, y: -103}
+        - {x: 91, y: -100}
+        - {x: 91, y: -31}
+        - {x: 83, y: -28}
+        - {x: 84, y: -7}
+        - {x: 79, y: 5}
+        - {x: 98, y: 40}
+        - {x: 98, y: 78}
+        - {x: 142, y: 78}
+        - {x: 146, y: 88}
+        - {x: 146, y: 103}
+        - {x: 138, y: 108}
+        - {x: 113, y: 123}
+        - {x: 96, y: 130}
+        - {x: 82, y: 130}
+        - {x: 82, y: 149}
+        - {x: 70, y: 157}
+        - {x: 74, y: 181}
+        - {x: 81, y: 189}
+        - {x: 84, y: 197}
+        - {x: 105, y: 197}
+        - {x: 108, y: 205}
+        - {x: 136, y: 206}
+        - {x: 138, y: 208}
+        - {x: 141, y: 218}
+        - {x: 114, y: 226}
+        - {x: 48, y: 226}
+        - {x: 46, y: 224}
+        - {x: 32, y: 218}
+        - {x: 30, y: 216}
+        - {x: 23, y: 211}
+        - {x: 6, y: 204}
+        - {x: -27, y: 169}
+        - {x: -40, y: 162}
+        - {x: -50, y: 155}
+        - {x: -65, y: 147}
+        - {x: -81, y: 139}
+        - {x: -84, y: 131}
+        - {x: -104, y: 130}
+        - {x: -114, y: 123}
+        - {x: -116, y: 111}
+        - {x: -92, y: 86}
+        - {x: -76, y: 84}
+        - {x: -82, y: 48}
+        - {x: -83, y: -9}
+        - {x: -76, y: -21}
+        - {x: -89, y: -21}
+        - {x: -92, y: -29}
+        - {x: -128, y: -22}
+        - {x: -232, y: -22}
+        - {x: -242, y: -32}
+        - {x: -242, y: -43}
+        - {x: -236, y: -48}
+        - {x: -242, y: -64}
+        - {x: -242, y: -97}
+        - {x: -228, y: -115}
+        - {x: -111, y: -114}
+        - {x: -96, y: -107}
+        - {x: -90, y: -96}
+        - {x: -79, y: -83}
+        - {x: -75, y: -80}
+        - {x: -73, y: -184}
+        - {x: 114, y: -184}
+        - {x: 122, y: -168}
+        - {x: 123, y: -159}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: fd4251b9e7a534de0800000000000000
+      internalID: -1350135963466783521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magician_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 107, y: -127}
+        - {x: 99, y: -124}
+        - {x: 99, y: -103}
+        - {x: 91, y: -100}
+        - {x: 91, y: -31}
+        - {x: 83, y: -28}
+        - {x: 84, y: -7}
+        - {x: 79, y: 5}
+        - {x: 98, y: 40}
+        - {x: 98, y: 78}
+        - {x: 142, y: 78}
+        - {x: 146, y: 88}
+        - {x: 146, y: 103}
+        - {x: 138, y: 108}
+        - {x: 113, y: 123}
+        - {x: 96, y: 130}
+        - {x: 82, y: 130}
+        - {x: 82, y: 149}
+        - {x: 70, y: 157}
+        - {x: 74, y: 181}
+        - {x: 81, y: 189}
+        - {x: 84, y: 197}
+        - {x: 105, y: 197}
+        - {x: 108, y: 205}
+        - {x: 136, y: 206}
+        - {x: 138, y: 208}
+        - {x: 141, y: 218}
+        - {x: 114, y: 226}
+        - {x: 44, y: 226}
+        - {x: 31, y: 219}
+        - {x: 23, y: 211}
+        - {x: 6, y: 204}
+        - {x: -27, y: 169}
+        - {x: -40, y: 162}
+        - {x: -50, y: 155}
+        - {x: -65, y: 147}
+        - {x: -81, y: 139}
+        - {x: -84, y: 131}
+        - {x: -104, y: 130}
+        - {x: -114, y: 123}
+        - {x: -116, y: 111}
+        - {x: -92, y: 86}
+        - {x: -76, y: 84}
+        - {x: -82, y: 49}
+        - {x: -87, y: 0}
+        - {x: -106, y: -15}
+        - {x: -107, y: -25}
+        - {x: -118, y: -30}
+        - {x: -118, y: 24}
+        - {x: -120, y: 26}
+        - {x: -240, y: 26}
+        - {x: -242, y: 24}
+        - {x: -242, y: -57}
+        - {x: -212, y: -76}
+        - {x: -200, y: -83}
+        - {x: -178, y: -82}
+        - {x: -179, y: -113}
+        - {x: -171, y: -122}
+        - {x: -143, y: -122}
+        - {x: -135, y: -115}
+        - {x: -119, y: -107}
+        - {x: -111, y: -99}
+        - {x: -79, y: -83}
+        - {x: -75, y: -80}
+        - {x: -74, y: -184}
+        - {x: 114, y: -184}
+        - {x: 122, y: -168}
+        - {x: 123, y: -159}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: 88f41991fc16497b0800000000000000
+      internalID: -5218438526100484216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

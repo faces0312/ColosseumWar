@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerEffect_W1
+  - PlayerEffect_W2
+  - PlayerEffect_W3
+  - Thief
+  - Michael
+  - Monk
+  - Pirate
+  - Archer
+  - Magician
+  - Skeleton
+  - PlayerEffect_S1
+  - PlayerEffect_S2
+  - PlayerEffect_S3
+  - PlayerSkillEffect_S
+  - Golem
+  - PlayerEffect_G1
+  - PlayerEffect_G2
+  - PlayerEffect_G3
+  - Slime
+  - PlayerEffect_Slime
+  - PlayerSkillEffect_Slime
+  - Reaper
+  - PlayerEffect_R1
+  - PlayerEffect_R2
+  - PlayerSkillEffect_Reaper
+  - Valkyrie
+  - Valkyrie_Atk
+  - Valkyrie_Skill
+  - Warrior
+  - Warrior_Atk
+  - Warrior_Skill
+  - Assassin
+  - Assassin_Atk
+  - Assassin_Skill
+  - Mage
+  - Mage_Atk
+  - RedZone
+  - PlayerSkillEffect_Wolf
+  - Lightning
+  - Arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - playerDamage
+  - PlayerEffect
+  - Thief
+  - Monk
+  - Michael
+  - Pirate
+  - Archer
+  - Magician
+  - PlayerSkillEffect_S
+  - Enemy_NotBack
+  - PlayerSkillEffect_Slime
+  - PlayerSkillEffect_Reaper
+  - PlayerSkillEffect_Wolf
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Map
+  m_SortingLayers:
+  - name: -1
+    uniqueID: 4289318521
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
